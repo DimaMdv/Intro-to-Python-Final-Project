@@ -1,0 +1,11 @@
+The database have 3 account you can operate with:
+Login/ID  |  PIN
+-----------------
+dmedved    1234
+mmorov     2481
+jsmith     1234
+
+
+The app consist of 2 .py files:
+"main.py" - the one you launch to open the app (!)
+"Accounts.py" - the file with 3 classes stored
